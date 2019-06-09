@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.54ca2537.chunk.css",
-    "main.js": "/static/js/main.701b8bc7.chunk.js",
-    "main.js.map": "/static/js/main.701b8bc7.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.9e7041d6.chunk.js": "/static/js/2.9e7041d6.chunk.js",
-    "static/js/2.9e7041d6.chunk.js.map": "/static/js/2.9e7041d6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5ca1a7a3a55f794de5e6b132a77f8930.js": "/precache-manifest.5ca1a7a3a55f794de5e6b132a77f8930.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.54ca2537.chunk.css.map": "/static/css/main.54ca2537.chunk.css.map",
-    "static/media/index.css": "/static/media/cakes.a18447e2.jpg"
+    "main.css": "/MichalBirthday/static/css/main.64ed04b6.chunk.css",
+    "main.js": "/MichalBirthday/static/js/main.077a992e.chunk.js",
+    "main.js.map": "/MichalBirthday/static/js/main.077a992e.chunk.js.map",
+    "runtime~main.js": "/MichalBirthday/static/js/runtime~main.34cf53d5.js",
+    "runtime~main.js.map": "/MichalBirthday/static/js/runtime~main.34cf53d5.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/MichalBirthday/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.9e7041d6.chunk.js": "/MichalBirthday/static/js/2.9e7041d6.chunk.js",
+    "static/js/2.9e7041d6.chunk.js.map": "/MichalBirthday/static/js/2.9e7041d6.chunk.js.map",
+    "index.html": "/MichalBirthday/index.html",
+    "precache-manifest.c58663b525c59f19036175e9d8249c98.js": "/MichalBirthday/precache-manifest.c58663b525c59f19036175e9d8249c98.js",
+    "service-worker.js": "/MichalBirthday/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/MichalBirthday/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.64ed04b6.chunk.css.map": "/MichalBirthday/static/css/main.64ed04b6.chunk.css.map",
+    "static/media/index.css": "/MichalBirthday/static/media/cakes.a18447e2.jpg"
   }
 }
